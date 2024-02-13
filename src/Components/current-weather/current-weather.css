@@ -1,0 +1,16 @@
+.parameter-row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.parameter-label{
+    text-align: left;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.parameter-value{
+    text-align: right;
+    font-weight: 600;
+    font-size: 12px;
+}
